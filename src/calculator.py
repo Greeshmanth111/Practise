@@ -1,6 +1,6 @@
-a=int(input())
-b=int(input())
-c=input()
+a=int(input("Num1:"))
+b=int(input("Num2:"))
+c=input("Operator:")
 if c=="+":
     print(a+b)
 elif c=="-":
